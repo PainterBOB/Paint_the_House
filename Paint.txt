@@ -2,3 +2,6 @@ Paint the house – shopping list;
 1)	Brushes
 2)	Rollers
 3)	Paint
+
+Colour;
+PainterBob paint the house pink with a yellow roof! 
